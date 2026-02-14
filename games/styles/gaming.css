@@ -1,0 +1,33 @@
+/* Specific styles for the gaming website */
+header .logo img {
+    width: 180px;
+    height: auto;
+}
+
+/* Flexbox layout */
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+section {
+    flex: 1;
+    min-width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section img {
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Responsive design for mobile */
+@media screen and (max-width: 768px) {
+    nav {
+        flex-direction: column;
+    }
+}

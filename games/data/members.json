@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "username": "johnny123",
+        "join_date": "2026-02-10",
+        "favorite_game": "Valorant"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "username": "janey95",
+        "join_date": "2026-02-08",
+        "favorite_game": "Minecraft"
+    },
+    {
+        "id": 3,
+        "name": "Michael Johnson",
+        "email": "michaeljohnson@example.com",
+        "username": "mj1990",
+        "join_date": "2026-02-12",
+        "favorite_game": "League of Legends"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "email": "emilydavis@example.com",
+        "username": "emilyd",
+        "join_date": "2026-02-05",
+        "favorite_game": "The Witcher 3"
+    },
+    {
+        "id": 5,
+        "name": "William Brown",
+        "email": "williambrown@example.com",
+        "username": "willb_12",
+        "join_date": "2026-02-07",
+        "favorite_game": "Apex Legends"
+    },
+    {
+        "id": 6,
+        "name": "Olivia Wilson",
+        "email": "oliviawilson@example.com",
+        "username": "livvy_07",
+        "join_date": "2026-02-09",
+        "favorite_game": "Overwatch"
+    },
+    {
+        "id": 7,
+        "name": "David Miller",
+        "email": "davidmiller@example.com",
+        "username": "davidm94",
+        "join_date": "2026-02-11",
+        "favorite_game": "Fortnite"
+    },
+    {
+        "id": 8,
+        "name": "Sophia Taylor",
+        "email": "sophiataylor@example.com",
+        "username": "soph_tay",
+        "join_date": "2026-02-06",
+        "favorite_game": "The Legend of Zelda: Breath of the Wild"
+    },
+    {
+        "id": 9,
+        "name": "Lucas Anderson",
+        "email": "lucasanderson@example.com",
+        "username": "lucas98",
+        "join_date": "2026-02-04",
+        "favorite_game": "Call of Duty: Warzone"
+    },
+    {
+        "id": 10,
+        "name": "Isabella Thomas",
+        "email": "isabellathomas@example.com",
+        "username": "bella_t",
+        "join_date": "2026-02-02",
+        "favorite_game": "Minecraft"
+    },
+    {
+        "id": 11,
+        "name": "James Jackson",
+        "email": "jamesjackson@example.com",
+        "username": "james90",
+        "join_date": "2026-02-13",
+        "favorite_game": "Grand Theft Auto V"
+    },
+    {
+        "id": 12,
+        "name": "Charlotte White",
+        "email": "charlottewhite@example.com",
+        "username": "charlottew12",
+        "join_date": "2026-02-01",
+        "favorite_game": "Red Dead Redemption 2"
+    },
+    {
+        "id": 13,
+        "name": "Henry Harris",
+        "email": "henryharris@example.com",
+        "username": "henry94",
+        "join_date": "2026-02-03",
+        "favorite_game": "Cyberpunk 2077"
+    },
+    {
+        "id": 14,
+        "name": "Amelia Martinez",
+        "email": "ameliamartinez@example.com",
+        "username": "amelia_m",
+        "join_date": "2026-02-14",
+        "favorite_game": "Among Us"
+    },
+    {
+        "id": 15,
+        "name": "Ethan Robinson",
+        "email": "ethanrobinson@example.com",
+        "username": "ethan_robo",
+        "join_date": "2026-02-04",
+        "favorite_game": "Fall Guys"
+    }
+]
