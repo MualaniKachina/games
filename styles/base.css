@@ -146,6 +146,31 @@ nav a:hover {
     #member-list {
         grid-template-columns: 1fr 1fr;
     }
+
+    nav {
+        display: none; /* Hide the regular navigation links */
+    }
+
+    .hamburger {
+        display: flex; /* Show the hamburger icon on small screens */
+    }
+
+    .menu {
+        display: none;
+        width: 100%;
+        background-color: #333;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px 0;
+    }
+
+    .menu li {
+        margin: 10px 0;
+    }
+
+    .menu.active {
+        display: flex;
+    }
 }
 
 @media screen and (max-width: 480px) {

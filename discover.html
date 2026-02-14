@@ -21,18 +21,36 @@
     <link rel="stylesheet" href="styles/base.css">
     <link rel="stylesheet" href="styles/layout.css">
     <link rel="stylesheet" href="styles/gaming.css">
+    <link rel="stylesheet" href="styles/menu.css"> <!-- Add this link for hamburger styling -->
 </head>
 <body>
     <header>
         <div class="logo">
             <img src="images/logo.png" alt="Gameverse Logo">
         </div>
+
+        <!-- Hamburger Menu for smaller screens -->
+        <div class="hamburger" id="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+
+        <!-- Navbar -->
         <nav>
             <a href="index.html">Home</a>
             <a href="discover.html">Discover</a>
             <a href="directory.html">Directory</a>
             <a href="join.html">Join</a>
         </nav>
+
+        <!-- Mobile Menu -->
+        <ul class="menu" id="menu">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="discover.html">Discover</a></li>
+            <li><a href="directory.html">Directory</a></li>
+            <li><a href="join.html">Join</a></li>
+        </ul>
     </header>
 
     <main>
@@ -68,5 +86,6 @@
 
     <!-- External Scripts -->
     <script src="scripts/game-directory.js" defer></script>
+    <script src="scripts/menu.js" defer></script> <!-- Add this link for hamburger functionality -->
 </body>
 </html>
